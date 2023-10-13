@@ -1,5 +1,5 @@
-# © Cyril C Thomas
-# https://t.me/cyril_c_10
+# © KronoS
+# https://t.me/fakekronos
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
