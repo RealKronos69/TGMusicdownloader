@@ -1,6 +1,6 @@
-# Songs Downloader BOT
+# TGMusic Downloader Bot
 
-# Working Demo [![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/music_c_down_bot/)
+# Working Demo [![image](https://img.shields.io/badge/TELEGRAM-0000FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TGmusic_Downloader_bot/)
 
 ## Table of Contents
 * [What is This BOT?](#What-is-This-BOT?)
@@ -19,15 +19,15 @@
 
 ### On Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/10cyrilc/spotify-bot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/RealKronos69/TGMusicdownloader)
 
 ### On VPS or Locally
 
 #### Without Docker
 
 ```
-git clone https://github.com/10cyrilc/spotify-bot.git
-cd spotify-bot
+git clone https://github.com/RealKronos69/TGMusicdownloader.git
+cd TGMusic Downloader Bot
 
 Edit edit_me.py with Details as Follows,
 
@@ -57,7 +57,7 @@ Run The Docker Image
 ## Bugs
 
 #### This is Currently in Development Stages, So it has Bugs that I am unaware of 
-#### If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
+#### If You Find any Bugs Feel Free to contact <a href="https://t.me/fakekronos">Cyril KronoS</a>
 
 ## My BOTs Channel
-<a href="https://t.me/c_bots_support">C BOTs</a>
+<a href="https://t.me/Spartans_mainchat">SpartanS ChatGc</a>
