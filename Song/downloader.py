@@ -1,5 +1,5 @@
-# © Cyril C Thomas
-# https://t.me/cyril_c_10
+# © KronoS
+# https://t.me/fakekronos
 
 import aiofiles
 import asyncio
@@ -51,7 +51,7 @@ async def spot_downloader(bot, update):
                         await reply_.edit("⚡️")
         except Exception as e:
             print(e)
-            await reply_.edit("Song not Found......!!!!\n\nContact @c_bots_support")
+            await reply_.edit("ꜱᴏɴɢ ɴᴏᴛ ꜰᴏᴜɴᴅ!!!\n\nContact:@Fake_KronoS")
     else:
         if os.path.isdir(download_path):
             directory_contents = os.listdir(download_path)
@@ -100,7 +100,7 @@ async def yt_downloader(bot, update):
             await reply_.delete()
     except Exception as e:
         print(e)
-        await reply_.edit("Song not Found......!!!!\n\nContact @c_bots_support")
+        await reply_.edit("ꜱᴏɴɢ ɴᴏᴛ ꜰᴏᴜɴᴅ!!!\n\nContact @FakeKronoS")
 
 
 async def spot_upload(bot, update, file_name):
