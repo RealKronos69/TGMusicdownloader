@@ -1,5 +1,5 @@
-# © Cyril C Thomas
-# https://t.me/cyril_c_10
+# © KronoS
+# https://t.me/fakekronos
 
 FROM ubuntu:latest
 
