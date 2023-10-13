@@ -1,5 +1,5 @@
-# © Cyril C Thomas
-# https://t.me/cyril_c_10
+# © KronoS
+# https://fakekronos
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from Song.database.access_db import db
@@ -24,14 +24,14 @@ def humanbytes(size):
 
 async def start(bot, update):
         await update.reply_text(
-            text=f"Hi there, {update.from_user.mention} \n\nI can download <b>Spotify Songs</b> and Sent it Back to You\n\nSend me The Link and See the Magic......\n\n\nMade with ❤️ by @c_bots_support",
+            text=f"Jᴀɪ Sʜʀᴇᴇ Rᴀᴍ, {update.from_user.mention}\n\n➻ ᴛʜɪs ɪs,<b>TGᴍᴜꜱɪᴄ Dᴏᴡɴʟᴏᴀᴅᴇʀ</b>\n\n๏ ꜰᴀꜱᴛᴇꜱᴛ ᴍᴜsɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ  ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ...\n๏ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ꜱᴇᴇ ᴍᴀɢɪᴄ...ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴜꜱɪᴄ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ꜱᴇᴀʀᴄʜ ꜱᴏɴɢ ʙᴜᴛᴛᴏɴ.\n──────────────────\n<b>Sᴜᴘᴘᴏʀᴛᴇᴅ Pʟᴀᴛғᴏʀᴍs</b> : ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ᴍɪxᴄʟᴏᴜᴅ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n",
             quote=True,
             reply_markup=InlineKeyboardMarkup(
                             [[
                                 InlineKeyboardButton(
-                                    "Support Channel", url="https://t.me/c_bots_support"),
+                                    "˹ꜱᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Spartans_Mainchat"),
                                 InlineKeyboardButton(
-                                    "DEV Contact", url="https://t.me/c_text_bot")
+                                    "˹ᴅᴇᴠᴇʟᴏᴘᴇʀ˼", url="https://t.me/fakekronos")
                                 ]]
                             ),
             disable_web_page_preview=True,
@@ -41,14 +41,14 @@ async def start(bot, update):
 
 async def helper(bot, update):
         await update.reply_text(
-            text=f"Send Me The Song Link\n\nDownload The Music\n\nSend as Music File Back to You\n\nNot all Music Files Can be Downloaded, So Please be Patient\n\nFeel Free to Conatct me If you Spot any Bugs\n\n\nMade with ❤️ by @c_bots_support",
+            text=f"Send Me The Song Link\n\nDownload The Music\n\nSend as Music File Back to You\n\nNot all Music Files Can be Downloaded, So Please be Patient\n\nFeel Free to Conatct me If you Spot any Bugs @FakeKronoS",
             quote=True,
             reply_markup=InlineKeyboardMarkup(
                             [[
                                 InlineKeyboardButton(
-                                    "Support Channel", url="https://t.me/c_bots_support"),
+                                    "˹ꜱᴜᴘᴘᴏʀᴛ˼", url="https://t.me/Spartans_mainchat"),
                                 InlineKeyboardButton(
-                                    "DEV Contact", url="https://t.me/c_text_bot")
+                                    "˹ᴅᴇᴠᴇʟᴏᴘᴇʀ˼", url="https://t.me/fakekronos")
                                 ]]
                             ),
             disable_web_page_preview=True,
