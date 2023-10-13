@@ -1,10 +1,10 @@
 {
-    "name": "Spotify BOT",
+    "name": "TGMusic Downloader Bot",
     "description": "Telegram BOT to Download Songs from Spotify",
     "keywords":["telegram", "bot", "spotify", "download", "best"],
-    "website": "https://github.com/10cyrilc",
-    "logo" : "https://telegra.ph/file/d89902acbb03f1ea73e62.jpg",
-    "repository": "https://github.com/10cyrilc/spotify-bot",
+    "website": "https://github.com/RealKronos69",
+    "logo" : "https://telegra.ph/file/43cc19f0aacce4361a06a.jpg",
+    "repository": "https://github.com/RealKronos69/TGMusicdownloader",
      "env":{
          "BOT_TOKEN":{
              "description" : "Your Telegram Bot Token from @BotFather",
@@ -22,7 +22,7 @@
             "required" : true
         },
         "LOG_CHANNEL":{
-            "description" : "ID of your LOGs Channel",
+            "description" : "ID of your LOGs Channel,",
             "value" : "",
             "required" : true
         },
