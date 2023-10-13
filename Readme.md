@@ -57,7 +57,7 @@ Run The Docker Image
 ## Bugs
 
 #### This is Currently in Development Stages, So it has Bugs that I am unaware of 
-#### If You Find any Bugs Feel Free to contact <a href="https://t.me/fakekronos">Cyril KronoS</a>
+#### If You Find any Bugs Feel Free to contact <a href="https://t.me/fakekronos"KronoS</a>
 
 ## My BOTs Channel
 <a href="https://t.me/Spartans_mainchat">SpartanS ChatGc</a>
